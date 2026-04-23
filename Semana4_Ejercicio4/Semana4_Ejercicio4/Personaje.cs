@@ -69,9 +69,9 @@ namespace Semana4_Ejercicio4
         }
 
 
-        public virtual void MostrarEstadisticas()
+        public virtual void MostrarEstadisticasPersonaje()
         {
-            Console.WriteLine("Vida: " + vida + " Fuerza: " + valentia);
+            Console.WriteLine("Vida: " + vida + " Atributo: " + valentia);
         }
 
     
