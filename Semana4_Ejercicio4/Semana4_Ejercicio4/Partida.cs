@@ -211,9 +211,9 @@ namespace Semana4_Ejercicio4
         }
 
 
-        public void VerificarEstado()
+        public void VerificarEstadoHeroe()
         {
-            if (!personaje.EstaVivo())
+            if (!personaje.EstaVivo() || !personaje.BuenDesempeño())
             {
                 Console.WriteLine("Aquí termina tu historia, suerte intentando ser un buen héroe la próxima vez");
             }
