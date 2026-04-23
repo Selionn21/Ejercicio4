@@ -10,8 +10,8 @@ namespace Semana4_Ejercicio4
     {   
         public Villano()
         {
-            vida = 90;
-            maldad = 30;
+            vida = 120;
+            maldad = 40;
         }
 
         public override void MostrarEstadisticas()
