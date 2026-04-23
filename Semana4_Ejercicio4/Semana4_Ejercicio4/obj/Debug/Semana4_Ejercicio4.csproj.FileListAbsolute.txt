@@ -1,0 +1,7 @@
+D:\TULUS\TercerCiclo\Taller\Programación\Programación_Sebas\Semana4_Ejercicio4\Semana4_Ejercicio4\bin\Debug\Semana4_Ejercicio4.exe.config
+D:\TULUS\TercerCiclo\Taller\Programación\Programación_Sebas\Semana4_Ejercicio4\Semana4_Ejercicio4\bin\Debug\Semana4_Ejercicio4.exe
+D:\TULUS\TercerCiclo\Taller\Programación\Programación_Sebas\Semana4_Ejercicio4\Semana4_Ejercicio4\bin\Debug\Semana4_Ejercicio4.pdb
+D:\TULUS\TercerCiclo\Taller\Programación\Programación_Sebas\Semana4_Ejercicio4\Semana4_Ejercicio4\obj\Debug\Semana4_Ejercicio4.csproj.AssemblyReference.cache
+D:\TULUS\TercerCiclo\Taller\Programación\Programación_Sebas\Semana4_Ejercicio4\Semana4_Ejercicio4\obj\Debug\Semana4_Ejercicio4.csproj.CoreCompileInputs.cache
+D:\TULUS\TercerCiclo\Taller\Programación\Programación_Sebas\Semana4_Ejercicio4\Semana4_Ejercicio4\obj\Debug\Semana4_Ejercicio4.exe
+D:\TULUS\TercerCiclo\Taller\Programación\Programación_Sebas\Semana4_Ejercicio4\Semana4_Ejercicio4\obj\Debug\Semana4_Ejercicio4.pdb
